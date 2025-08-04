@@ -4,7 +4,7 @@ Iris is a smart and customizable desktop assistant built using Python, Eel, HTML
 
 From launching apps to making calls and chatting, Iris brings AI and automation to your fingertips.
 
-✨ Features
+✨ Features<br>
 🎙️ Control via Voice & Typing
 📞 Make Phone Calls via Mobile (Android)
 📲 Pickup & Disconnect Calls
